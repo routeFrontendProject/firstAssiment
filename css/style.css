@@ -19,9 +19,20 @@
 {
     background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
     color: white;
+<<<<<<< HEAD
 }
 
 #abdelhamid{
     background-image: linear-gradient(to right top, #076585,#fff);
     color: white;
+||||||| 85cb61c
+=======
+}
+
+.background 
+{
+    background: linear-gradient(-45deg, #e73c7e, #e73c7e, #23a6d5, #23d5ab);
+    color: bisque;
+    text-align:center;
+>>>>>>> 57866e1e1cba5e6d317f760b36e20f7647f12137
 }
