@@ -1,0 +1,22 @@
+*
+{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.layout
+{
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courgette', cursive;
+    font-size: 3rem;
+}
+
+#muhnd
+{
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    color: white;
+}
