@@ -38,3 +38,8 @@
     font-family: 'sego ui light';
     padding-top: 20%;
 }
+#salah {
+    background: rgb(18,11,75);
+    background: linear-gradient(90deg, rgba(18,11,75,1) 0%, rgba(53,53,168,1) 35%, rgba(0,212,255,1) 100%);
+    color: #fff;
+}
