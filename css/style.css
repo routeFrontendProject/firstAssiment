@@ -28,3 +28,13 @@
     color: bisque;
     text-align: center;
 }
+
+#elhamrawi{
+    background: linear-gradient(green,red);
+    height: 100vh;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'sego ui light';
+    padding-top: 20%;
+}
